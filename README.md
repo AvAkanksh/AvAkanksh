@@ -1,3 +1,4 @@
+<img alt="ML"  src="https://www.aalpha.net/wp-content/uploads/2021/02/Automated-Machine-Learning.gif" style="width: 10px; height: 10px; margin: 0px;">
 <h1 align="center">Hi 👋, I'm Akanksh AV</h1>
 <h3 align="center">I am a PASSIONATE ML and Data Science learner</h3>
 
