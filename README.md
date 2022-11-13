@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Akanksh AV</h1>
-<h3 align="center">I am a PASSIONATE ML and Data Science learner</h3>
+<h3 align="center">I am a PASSIONATE Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avakanksh&label=Profile%20views&color=0e75b6&style=flat" alt="avakanksh" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avakanksh" alt="avakanksh" /></a> </p> -->
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **ee18b002@iittp.ac.in , avakanksh1@gmail.com**
 
