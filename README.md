@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/adugani vanjari akanksh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Akanksh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/av-akanksh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Akanksh" height="30" width="40" /></a>
 <a href="https://kaggle.com/avakanksh1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="adugani vanjari akanksh" height="30" width="40" /></a>
 </p>
 
