@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Akanksh AV</h1>
 <h3 align="center">I am a PASSIONATE Learner</h3>
-
-<p align="center" >
-  <img src="https://komarev.com/ghpvc/?username=avakanksh&label=Profile%20views&color=0e75b6&style=flat" alt="avakanksh" />
-  </br>
+<br>
+<h3 align="center">Profile Views</h3>
+<p align="center" > 
   <img src="https://profile-counter.glitch.me/AvAkanksh/count.svg" />  
 </p>
 
@@ -69,11 +68,12 @@
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AvAkanksh&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Akanksh's github stats" /></a> |
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvAkanksh&layout=compact&theme=chartreuse-dark&hide_border=true" width="400" /></a> |
 <br>
-<br>
+<p align='center'>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AvAkanksh&theme=blueberry_duo&stroke=00DD0A&currStreakNum=FFE20F&background=000000&border=DD272700&ring=00DD36&fire=FF8B00&sideNums=DDD90B)](https://git.io/streak-stats)
+  
+</p>
 
-
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AvAkanksh&theme=dark&hide_border=true" />
 <br> 
 <hr>
 <br>
