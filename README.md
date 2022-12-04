@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avakanksh&theme=onedark&no-bg=true&no-frame=true&column=7" alt="avakanksh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avakanksh&theme=onedark&no-bg=true&no-frame=true&column=7" alt="avakanksh" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 - 🔥 Loves Exploring Operating Systems.
@@ -63,17 +63,17 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AvAkanksh&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Akanksh's github stats" /></a>
 <br>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AvAkanksh&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Akanksh's github stats" /></a> |
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvAkanksh&layout=compact&theme=chartreuse-dark&hide_border=true" width="400" /></a> |
 <br>
-<p align='center'>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AvAkanksh&theme=blueberry_duo&stroke=00DD0A&currStreakNum=FFE20F&background=000000&border=DD272700&ring=00DD36&fire=FF8B00&sideNums=DDD90B)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvAkanksh&layout=compact&theme=chartreuse-dark&hide_border=true" width="400" /></a> 
+<br>
+<br>  
   
-</p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AvAkanksh&theme=blueberry_duo&stroke=00DD0A&currStreakNum=FFE20F&background=000000&border=DD272700&ring=00DD36&fire=FF8B00&sideNums=DDD90B)](https://git.io/streak-stats)
+ 
+</div>
 <br> 
 <hr>
 <br>
