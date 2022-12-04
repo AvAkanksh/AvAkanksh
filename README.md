@@ -7,7 +7,6 @@
   <img src="https://profile-counter.glitch.me/AvAkanksh/count.svg" />  
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avakanksh&theme=onedark&no-bg=true&no-frame=true&column=7" alt="avakanksh" /></a> </p>
 
 - 🌱 I’m currently learning **React**
