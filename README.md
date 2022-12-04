@@ -68,28 +68,14 @@
 <br>
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AvAkanksh&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Akanksh's github stats" /></a> |
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvAkanksh&layout=compact&theme=chartreuse-dark&hide_border=true" width="400" /></a> |
-</br>
-</br>
+<br>
+<br>
 
 
 
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AvAkanksh&theme=dark&hide_border=true" />
-  
-<br>
-
- <hr>
-
-
-<br>
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AvAkanksh&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
-
 <br> 
- 
 <hr>
-
-
 <br>
 
 ### Show some ❤️ by starring some of the repositories!
