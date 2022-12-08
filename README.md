@@ -5,6 +5,7 @@
 <h3 align="center">Profile Views</h3>
 <p align="center" > 
   <img src="https://profile-counter.glitch.me/AvAkanksh/count.svg" />  
+  <img src="https://raw.githack.com/AvAkanksh/AvAkanksh/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avakanksh&theme=onedark&no-bg=true&no-frame=true&column=7" alt="avakanksh" /></a> </p>
