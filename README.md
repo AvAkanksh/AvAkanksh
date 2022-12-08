@@ -70,8 +70,10 @@
 <br>
 <br>  
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AvAkanksh&theme=blueberry_duo&stroke=00DD0A&currStreakNum=FFE20F&background=000000&border=DD272700&ring=00DD36&fire=FF8B00&sideNums=DDD90B)](https://git.io/streak-stats)
- 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AvAkanksh&theme=blueberry_duo&stroke=00DD0A&currStreakNum=FFE20F&background=000000&border=DD272700&ring=00DD36&fire=FF8B00&sideNums=DDD90B)
+
+  
 </div>
 <br> 
 <hr>
