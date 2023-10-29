@@ -64,10 +64,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AvAkanksh&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Akanksh's github stats" /></a>
+<a href="https://github.com/AvAkanksh/AvAkanksh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AvAkanksh&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Akanksh's github stats" /></a>
 <br>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvAkanksh&layout=compact&theme=chartreuse-dark&hide_border=true" width="400" /></a> 
+<a href="[https://github.com/anuraghazra/](https://github.com/AvAkanksh/AvAkanksh)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvAkanksh&layout=compact&theme=chartreuse-dark&hide_border=true" width="400" /></a> 
 <br>
 <br>  
   
