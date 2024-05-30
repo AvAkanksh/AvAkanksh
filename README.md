@@ -3,9 +3,7 @@
 <h3 align="center">I am a PASSIONATE Learner</h3>
 <br>
 
-<div align="center">
-<a href="https://avakanksh.pp.ua" target="_blank" ><img src="https://www.avakanksh.pp.ua/images/logo-dark.png"></a>
-</div>
+<div align="center">👉👉👉<a href="https://avakanksh.pp.ua" target="_blank" ><img src="https://www.avakanksh.pp.ua/images/logo-dark.png" width="100px"></a>👈👈👈</div>
 <h3 align="center">Profile Views</h3>
 <p align="center" > 
   <img src="https://profile-counter.glitch.me/AvAkanksh/count.svg" />  
