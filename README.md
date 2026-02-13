@@ -5,8 +5,9 @@
 
 <div align="center">👉👉👉<a href="https://avakanksh.pp.ua" target="_blank" ><img src="https://www.avakanksh.pp.ua/images/logo-dark.png" width="100px"></a>👈👈👈</div>
 <h3 align="center">Profile Views</h3>
-<p align="center" > 
-  <img src="https://profile-counter.glitch.me/AvAkanksh/count.svg" />  
+<p align="center" >
+  ![](https://komarev.com/ghpvc/?username=avakanksh)
+  <!-- <img src="https://profile-counter.glitch.me/AvAkanksh/count.svg" />   -->
   <img src="https://raw.githack.com/AvAkanksh/AvAkanksh/output/github-contribution-grid-snake-dark.svg">
 </p>
 
