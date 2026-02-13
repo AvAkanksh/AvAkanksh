@@ -7,6 +7,7 @@
 <h3 align="center">Profile Views</h3>
 <p align="center" >
   <img src="https://komarev.com/ghpvc/?username=avakanksh&color=blue" />
+  <br>
   <!-- <img src="https://profile-counter.glitch.me/AvAkanksh/count.svg" />   -->
   <img src="https://raw.githack.com/AvAkanksh/AvAkanksh/output/github-contribution-grid-snake-dark.svg">
 </p>
